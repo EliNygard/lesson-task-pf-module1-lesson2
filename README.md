@@ -33,7 +33,7 @@ Console log the number of characters in this string: "The frogs are angry."
 
 ### Question 6
 
-Convet the following variable names to camelCase:
+Convert the following variable names to camelCase:
 
 ```js
 var time_elapsed;
